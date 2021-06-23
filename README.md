@@ -12,3 +12,4 @@ left arrow - Move ship left
 right arrow - Move ship right
 Space - Fire shots at enemy
 
+![Space Invaders](https://user-images.githubusercontent.com/85508832/123154590-ed936f00-d41b-11eb-8446-b7855159643c.png)
