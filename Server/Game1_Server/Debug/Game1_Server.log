@@ -1,0 +1,61 @@
+﻿  Game.cpp
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(44,54): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(47,52): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(53,34): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(56,29): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(121,33): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Enemy.h(87,29): warning C4838:  conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Enemy.h(87,29): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Enemy.h(89,21): warning C4838:  conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Enemy.h(89,21): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\libzmq-v141-4_3_2\dukglue\detail_primitive_types.h(41,1): warning C4244:  'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+C:\libzmq-v141-4_3_2\dukglue\detail_primitive_types.h(41,1): message :  This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+C:\libzmq-v141-4_3_2\dukglue\detail_primitive_types.h(46,1): warning C4244:  'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+C:\libzmq-v141-4_3_2\dukglue\detail_primitive_types.h(46,1): message :  This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:  'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:         with
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:         [
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:             _Ty=float
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:         ]
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(27,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(71,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(74,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(77,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(80,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(101,10): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(111,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(120,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(127,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(138,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(143,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(148,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(191,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(198,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(211,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(205,32): warning C4101:  'e': unreferenced local variable
+  Player.cpp
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Game.cpp(218,32): warning C4101:  'e': unreferenced local variable
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(44,54): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(47,52): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(53,34): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(56,29): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Timeline.h(121,33): warning C4244:  'return': conversion from 'float' to 'long', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Enemy.h(87,29): warning C4838:  conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Enemy.h(87,29): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Enemy.h(89,21): warning C4838:  conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Enemy.h(89,21): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\libzmq-v141-4_3_2\dukglue\detail_primitive_types.h(41,1): warning C4244:  'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+C:\libzmq-v141-4_3_2\dukglue\detail_primitive_types.h(41,1): message :  This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+C:\libzmq-v141-4_3_2\dukglue\detail_primitive_types.h(46,1): warning C4244:  'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+C:\libzmq-v141-4_3_2\dukglue\detail_primitive_types.h(46,1): message :  This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:  'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:         with
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:         [
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:             _Ty=float
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\EventManager.h(43,39): warning C4244:         ]
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Player.cpp(41,28): warning C4838:  conversion from 'int' to 'float' requires a narrowing conversion
+  Generating Code...
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\Player.cpp(41,28): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\RigidBody.h(60): warning C4715:  'RigidBody::getPoint': not all control paths return a value
+C:\Users\Ajay\source\repos\Game1_Server\Game1_Server\RigidBody.h(60): warning C4715:  'RigidBody::getPoint': not all control paths return a value
+  Game1_Server.vcxproj -> C:\Users\Ajay\source\repos\Game1_Server\Debug\Game1_Server.exe
